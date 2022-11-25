@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\bin\Debug\AlarmSistemi.exe.config
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\bin\Debug\AlarmSistemi.exe
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\bin\Debug\AlarmSistemi.pdb
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\obj\Debug\AlarmSistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\obj\Debug\AlarmSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\obj\Debug\AlarmSistemi.Form1.resources
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\obj\Debug\AlarmSistemi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\obj\Debug\AlarmSistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\obj\Debug\AlarmSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\obj\Debug\AlarmSistemi.exe
+C:\Users\Lenovo\source\repos\AlarmSistemi\AlarmSistemi\obj\Debug\AlarmSistemi.pdb
